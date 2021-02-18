@@ -7,5 +7,5 @@ In this repository, I'll implement some ideas on metrics and optimization for on
 2. Move the file to the data/ directory.
 
 ### Reference
-- [Slides](https://docs.google.com/presentation/d/1s0ljiGH5kRr38w7W_2HQ50stt6W9zWgD92NQmZBLeAw/edit)
-- [Dataset](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+- WWW 2019: Tutorial on Online User Engagement: Metrics and Optimization ([slides](https://docs.google.com/presentation/d/1s0ljiGH5kRr38w7W_2HQ50stt6W9zWgD92NQmZBLeAw/edit))
+- [Dataset](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store): eCommerce behavior data from multi category store
